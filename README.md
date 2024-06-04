@@ -1,0 +1,2 @@
+Enunciado:
+Desenvolver uma página web estática, com estética actual, feita de raiz em HTML e CSS (sem utilização de templates previamente existentes, nem de programas de desenvolvimento de páginas web), capaz de funcionar de forma eficaz em dispositivos de visualização variados, como PCs, Tablets, Telemóveis. Esta página deve incorporar texto, hipertexto, imagens estáticas, elementos de som e de video, e incluir pelo menos duas sub-páginas com navegação via menus.
